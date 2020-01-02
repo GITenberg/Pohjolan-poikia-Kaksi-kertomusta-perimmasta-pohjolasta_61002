@@ -1,5 +1,8 @@
 _repo: Pohjolan-poikia-Kaksi-kertomusta-perimmasta-pohjolasta_61002
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hannikainen, Lauri
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48673
     wikipedia: https://fi.wikipedia.org/wiki/Lauri_Hannikainen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61002#Pohjolan-poikia-Kaksi-kertomusta-perimmasta-pohjolasta
 gutenberg_issued: '2019-12-22'
 gutenberg_type: Text
 identifiers:
